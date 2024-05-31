@@ -81,6 +81,8 @@ content quality etc to inform evidence-based curriculum redesign at scale.
 • Use optical character recognition and extraction techniques on application forms,
 test papers etc to structure unstructured student data, transcripts into searchable
 indices, minimizing manual effort.
+
+
 **Business Intelligence**
 5. Central data visualizations for tracking KPIs across student funnel from lead to
 alumnus leveraging QuickSight dashboards providing senior leadership instant
