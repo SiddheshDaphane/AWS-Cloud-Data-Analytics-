@@ -62,3 +62,32 @@ performance, cost-efficient analytics environment.
 ### REALTIME STREAMING PROCESSING PIPELINE
 
 <img width="809" alt="Screenshot 2024-05-31 at 8 05 01 AM" src="https://github.com/SiddheshDaphane/AWS-Cloud-Data-Analytics-/assets/105710898/b44b1082-614c-48ad-afe8-f388c649b720">
+
+## ADVANCE DATA ANLYTICS
+**Machine Learning Use Cases**
+1. Predictive analytics for at-risk students:
+• Build classification models leveraging random forest, XGBoost on SageMaker to
+predict students likely to fail or drop out based on academic, engagement, and
+psychosocial factors. Enables proactive student support.
+2. Personalized course recommendations:
+• Implement collaborative filtering algorithms like matrix factorization on student
+attributes, grades, career goals etc to provide tailored course suggestions
+maximizing progress or completion rates.
+3. Curriculum and instruction analysis:
+• Employ natural language processing techniques on open-ended course surveys to
+gather topic modelling-based insights and sentiment analysis on teaching methods,
+content quality etc to inform evidence-based curriculum redesign at scale.
+4. Automated document processing:
+• Use optical character recognition and extraction techniques on application forms,
+test papers etc to structure unstructured student data, transcripts into searchable
+indices, minimizing manual effort.
+**Business Intelligence**
+5. Central data visualizations for tracking KPIs across student funnel from lead to
+alumnus leveraging QuickSight dashboards providing senior leadership instant
+visibility into enrolment trends, revenue forecasts etc.
+6. Real-time dashboards for monitoring student and staff operational metrics using
+Amazon Kinesis Data Analytics SQL capabilities for streaming analysis as data
+arrives, informing load balancing of shared resources.
+7. Interactive geospatial view generated in QuickSight analyzing application rates
+sliced by locational dimensions enabling strategically targeted marketing
+campaigns, optimal siting of new campuses
