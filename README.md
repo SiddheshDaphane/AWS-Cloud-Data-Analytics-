@@ -51,3 +51,6 @@ governance. Kinesis Firehose, AppFlow and EventBridge drive continuous data inte
 Redshift Spectrum and SageMaker power ad-hoc querying over vast data scale and runway
 for advanced machine learning in a serverless fashion - collectively realizing a high-
 performance, cost-efficient analytics environment.
+
+<img width="1130" alt="Screenshot 2024-05-31 at 7 56 15 AM" src="https://github.com/SiddheshDaphane/AWS-Cloud-Data-Analytics-/assets/105710898/85ce4d76-b1e2-4a99-b435-aacfa1fe1294">
+
