@@ -84,12 +84,15 @@ indices, minimizing manual effort.
 
 
 **Business Intelligence**
+
 5. Central data visualizations for tracking KPIs across student funnel from lead to
 alumnus leveraging QuickSight dashboards providing senior leadership instant
 visibility into enrolment trends, revenue forecasts etc.
-6. Real-time dashboards for monitoring student and staff operational metrics using
+
+7. Real-time dashboards for monitoring student and staff operational metrics using
 Amazon Kinesis Data Analytics SQL capabilities for streaming analysis as data
-arrives, informing load balancing of shared resources.
-7. Interactive geospatial view generated in QuickSight analyzing application rates
+arrives, informing load balancing of shared resources
+
+9. Interactive geospatial view generated in QuickSight analyzing application rates
 sliced by locational dimensions enabling strategically targeted marketing
 campaigns, optimal siting of new campuses
