@@ -41,3 +41,13 @@ Continual enhancement of predictive models and AI capabilities will establish th
 leadership for the university. Through reliable, scalable, cost-optimized design leveraging AWS
 cloud, we target driving automation into data-intensive processes to inform strategic decisions
 that significantly improve educational experiences and business efficiency.
+
+## PROPOSED SOLUTION
+The proposed cloud-native solution leverages AWS Lake Formation to establish a scalable
+data lake ingesting batch and real-time streams. AWS Glue data catalog classifies datasets
+while Spark processes transformations for analytical readiness. Granular access controls,
+encryption enforced through Lake Formation coupled with CloudTrail, Macie enable trusted
+governance. Kinesis Firehose, AppFlow and EventBridge drive continuous data integration.
+Redshift Spectrum and SageMaker power ad-hoc querying over vast data scale and runway
+for advanced machine learning in a serverless fashion - collectively realizing a high-
+performance, cost-efficient analytics environment.
