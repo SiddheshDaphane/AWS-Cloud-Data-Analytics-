@@ -54,3 +54,7 @@ performance, cost-efficient analytics environment.
 
 <img width="1130" alt="Screenshot 2024-05-31 at 7 56 15 AM" src="https://github.com/SiddheshDaphane/AWS-Cloud-Data-Analytics-/assets/105710898/85ce4d76-b1e2-4a99-b435-aacfa1fe1294">
 
+
+### BATCH PROCESSING PIPELINE
+
+<img width="784" alt="Screenshot 2024-05-31 at 8 03 52 AM" src="https://github.com/SiddheshDaphane/AWS-Cloud-Data-Analytics-/assets/105710898/890c6f3d-1172-490a-b1a7-f68342877fd2">
